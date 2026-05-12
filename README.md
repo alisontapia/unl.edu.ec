@@ -1,1 +1,0 @@
-# cleanCode_UMLclass
